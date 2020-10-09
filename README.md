@@ -32,7 +32,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs everyday.
 
-[![Linkedin: Ayush Bhardwaj](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-bhardwaj-566556152)](https://www.linkedin.com/in/ayush-bhardwaj-566556152)
+[![Linkedin: Ayush Bhardwaj](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-bhardwaj-566556152)](https://www.linkedin.com/in/ayush-bhardwaj-566556152)
 [![GitHub ayushbhardwaj307](https://img.shields.io/github/followers/ayushbhardwaj307?label=follow&style=social)](https://github.com/ayushbhardwaj307)
 
 
@@ -48,7 +48,7 @@
 
 
 <a href="https://github.com/ayushbhardwaj307">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbhardwaj30&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushbhardwaj307&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ayushbhardwaj307">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushbhardwaj307&show_icons=true&theme=light&line_height=27" alt="Ayush's github stats"/>
