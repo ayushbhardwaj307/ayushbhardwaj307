@@ -8,8 +8,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs everyday.
 
-### Hola, I'm Ayush Bhardwaj!! 👋
-
 <a href="https://www.linkedin.com/in/ayush-bhardwaj-566556152">
   <img align="left" alt="Ayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -21,16 +19,6 @@
 </a>
 <br/>
 <br/>
-
-
-
-- 🔭 I’m currently working on Eshop Backend.
-- 🌱 I’m currently learning Spring Boot.
-- 🤔 I’m looking for help with Spring Basics.
-- 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: https://www.linkedin.com/in/ayush-bhardwaj-566556152
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs everyday.
 
 [![Linkedin: Ayush Bhardwaj](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-bhardwaj-566556152)](https://www.linkedin.com/in/ayush-bhardwaj-566556152)
 [![GitHub ayushbhardwaj307](https://img.shields.io/github/followers/ayushbhardwaj307?label=follow&style=social)](https://github.com/ayushbhardwaj307)
