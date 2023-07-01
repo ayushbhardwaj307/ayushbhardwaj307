@@ -1,6 +1,6 @@
 ### Hola, I'm Ayush Bhardwaj!! 👋
 
-- 🔭 I’m currently working on Eshop Backend.
+- 🔭 I’m currently not working on anything lulz.
 - 🌱 I’m currently learning Spring Boot.
 - 🤔 I’m looking for help with Spring Basics.
 - 💬 Ask me about any tech related stuff.
